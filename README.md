@@ -1,4 +1,4 @@
-# LMS-project
+# LMS-Project
 
 User Registration with Email Verification
 
